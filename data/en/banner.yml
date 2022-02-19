@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "You bring the idea, we make it real"
+  content : "Customized software solutions that fit your needs all around the globe"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"
