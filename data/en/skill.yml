@@ -2,8 +2,8 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  subtitle : We’ve skilled in wide range of software and tech stacks.
+  content : Our senior devs have been on the industry for more than a decade and our juniors benefit from their experience in every step of the development life cycle. We follow the latest advancements and keep our coding skills up-to-date. We work on various stacks and technologies, which makes us versatile for any project
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
@@ -11,16 +11,16 @@ skill:
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
-      percent : 70%
+    - name :  F#
+      percent : 90%
       
     # skill item loop
-    - name :  Design
+    - name :  Elixir
+      percent : 85%
+      
+    - name :  Ruby
       percent : 80%
       
-    - name :  IOS Development
-      percent : 95%
-      
     # skill item loop
-    - name :  Android Development
-      percent : 75%
+    - name :  Javascript
+      percent : 85%

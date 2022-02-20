@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Please fill the form and we'll contact you as soon as possible.
+  content : If you are looking for a high-quality, customized software development solution, contact us today. We would be happy to discuss your specific needs and see how we can help you.
 
   # Contact details
   contact_list:
@@ -20,7 +20,7 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/mzborkdw" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"
