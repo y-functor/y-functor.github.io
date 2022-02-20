@@ -97,7 +97,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 Y FUNCTOR SAS"
+copyright = "Copyright &copy; 2022 Y FUNCTOR SAS"
 
 ################################ Spanish Language ########################
 [Languages.es]
@@ -106,4 +106,4 @@ languageCode = "es"
 contentDir = "content/spanish"
 weight = 2
 home = "Inicio"
-copyright = "Copyright &copy; 2021 Y FUNCTOR SAS"
+copyright = "Copyright &copy; 2022 Y FUNCTOR SAS"
