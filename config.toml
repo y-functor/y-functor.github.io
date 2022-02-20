@@ -65,7 +65,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Crafting software solutions with ownership"
+description = "Customized software solutions that fit your needs all around the globe"
 author = "y-functor"
 # Google Analytics
 google_analytics_id = "" # Your ID

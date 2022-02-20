@@ -10,6 +10,9 @@ contact:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Luis Alberto de Herrera 1248, 703 - Montevideo - Uruguay"
       
+    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+      info : "https://github.com/y-functor"
+
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +598-94-189-417"
       
