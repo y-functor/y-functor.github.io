@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://y-functor.github.io/"
+baseURL = "https://y-functor.io/"
 title = "y-functor"
 theme = "meghna-hugo"
 # post pagination
