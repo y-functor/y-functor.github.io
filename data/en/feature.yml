@@ -4,7 +4,7 @@ feature:
   image : images/about/about-business.jpg
   image_webp : images/about/about-business.webp
   title : Crafting software solutions with ownership.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "We are a team of developers, coders, and programmers who strive to be the best in the industry. We work with you to create customized software that meets your specific needs. We have experience in a variety of programming languages and platforms, so we can create a solution that is perfect for you. We are also up-to-date on the latest advancements in technology, so we can provide you with the most current solutions. We take pride in our work and always put the needs of our clients first. We are here to help you achieve your goals."
   feature_item : 
       # feature item loop
     - title : SEO Optimized
