@@ -13,7 +13,9 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
+		<br>
 		<h1>{{ .title | markdownify }}</h1>
+		<br>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
